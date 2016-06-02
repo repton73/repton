@@ -1,1 +1,1 @@
-# pc128s olivetti prodest emulator
+# PC128S olivetti prodest emulator
