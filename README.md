@@ -1,2 +1,1 @@
-# repton
-pc128s olivetti prodest emulator
+# pc128s olivetti prodest emulator
